@@ -22,4 +22,4 @@
 
 
 ## Report
-### * [practice-report-2022](/REPORT/)
+### * [practice-report-2022](/REP/)
